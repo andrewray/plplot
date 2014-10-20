@@ -1,0 +1,4 @@
+escription = "PLplot library bindings"
+version = "5.10.0"
+archive(byte) = "plplot.cma"
+archive(native) = "plplot.cmxa"
